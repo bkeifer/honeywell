@@ -1,0 +1,2 @@
+$user = "bob\@example.com";
+$pass = "itsasecret";
